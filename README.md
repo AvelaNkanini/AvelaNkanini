@@ -3,7 +3,6 @@
 Bachelor Of Information Technology Student at NMU<br/>
 Software Developer, UX Designer<br/>
 I'm currently creating Web Apps<br/>
-This is my Instagram nothing on it yet [Instagram](https://www.instagram.com/avelankanini?igsh=OHQwcnZxZXA2YWpr)
 
 
 ## 🌐 Socials:
