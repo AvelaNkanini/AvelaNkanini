@@ -1,8 +1,8 @@
 ## Ola, I'm Marvelous
 
-Bachelor Of Information Technology Student at NMU<br/>
+Bachelor of Information Technology Student at NMU<br/>
 Software Developer, UX Designer<br/>
-I'm currently creating Web and Mobile Application<br/>
+I'm currently building Web and Mobile Applications<br/>
 
 
 ## 🌐 Socials:
