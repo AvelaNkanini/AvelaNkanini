@@ -1,4 +1,5 @@
-Bachelor of Information Technology Student at NMU<br/>
+Bachelor of Information Technology <br/>
+Student at Nelson Mandela University<br/>
 Software Developer, UX Designer, Researcher<br/>
 I'm currently building Web and Mobile Applications<br/>
 
