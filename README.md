@@ -1,5 +1,5 @@
 Bachelor of Information Technology <br/>
-Student at Nelson Mandela University<br/> 
+Student at Nelson Mandela University<br/>
 Software Developer, UX/UI Designer, Researcher<br/> 
 I'm currently building and designing Websites and Mobile Applications<br/>
 
