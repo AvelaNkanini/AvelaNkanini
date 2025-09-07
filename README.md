@@ -21,6 +21,37 @@ My name is Avela, a software developer with a deep passion for user experience. 
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,figma" />
+## Tech Stack
+
+<!-- Main icons row -->
+<img src="https://skillicons.dev/icons?i=html,css,js,java,csharp,r,react,bootstrap,nodejs,git,github,figma,android" />
+
+### Programming Languages
+- HTML, CSS, JavaScript, Java, C#, R, SQL
+
+### Frontend Frameworks & Libraries
+- React, Bootstrap
+
+### Backend & Server-Side
+- Node.js, ASP.NET / ASP.NET Core
+
+### Databases
+- MySQL, Microsoft SQL Server, Firebase
+
+### Tools & Platforms
+- Git, GitHub, Visual Studio Code, Android Studio, Visual Studio, Packet Tracer, Figma
+
+### Networking, Security & SysAdmin
+- Wireshark, Cisco (CCNA / Networking), Nmap
+
+### Cloud & DevOps
+- Docker, Kubernetes, GitHub Actions
+
+### Mobile Development
+- React Native, Java (Android)
+
+### UI & UX Design
+- Figma, Canva, Balsamiq
+
 
 ---
