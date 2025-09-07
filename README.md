@@ -3,7 +3,7 @@ Student at **Nelson Mandela University**
 Software Developer | UX/UI Designer | Researcher  
 Currently building and designing Websites & Mobile Applications
 
-<img width="200" height="300" alt="ascii-art" src="https://github.com/user-attachments/assets/84f2f727-e60b-41fd-953e-f2e2d3fb455f" />
+<img width="300" height="500" alt="ascii-art" src="https://github.com/user-attachments/assets/84f2f727-e60b-41fd-953e-f2e2d3fb455f" />
 
 ---
 ## About Me
