@@ -16,9 +16,9 @@ Currently building and designing Websites & Mobile Applications
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvelaNkanini&show_icons=true&theme=react&hide_border=false&include_all_commits=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvelaNkanini&show_icons=true&theme=react&hide_border=false)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelaNkanini&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelaNkanini&theme=react&hide_border=false&count_private=false&layout=compact)
 
 ---
 
