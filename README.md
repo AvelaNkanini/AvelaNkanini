@@ -1,41 +1,34 @@
-<h1 align="center">Avela Nkanini</h1>
+# Avela Nkanini
 
-<p align="center">
-  <strong>Bachelor of Information Technology</strong><br/>
-  Student at <strong>Nelson Mandela University</strong><br/>
-  Software Developer | UX/UI Designer | Researcher<br/>
-  Currently building and designing Websites & Mobile Applications
-</p>
+**Bachelor of Information Technology**  
+Student at **Nelson Mandela University**  
+Software Developer | UX/UI Designer | Researcher  
+Currently building and designing Websites & Mobile Applications
 
 ---
 
 ## About Me
-- 🔹 Working on Web & Mobile Applications  
-- 🔹 Learning Cloud, AI, and Advanced UX/UI Design  
-- 🔹 Passionate about problem-solving, design, and innovation  
+- Working on Web & Mobile Applications  
+- Learning Cloud, AI, and Advanced UX/UI Design  
+- Passionate about problem-solving, design, and innovation  
 
 ---
 
 ## GitHub Stats
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelaNkanini&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvelaNkanini&show_icons=true&theme=react&hide_border=false&include_all_commits=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelaNkanini&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,figma" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,figma" />
 
 ---
 
 ## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/avela-nkanini" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:avelankanini@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avela-nkanini)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avelankanini@example.com)
