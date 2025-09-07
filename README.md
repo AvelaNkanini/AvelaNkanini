@@ -22,30 +22,30 @@ My name is Avela, a software developer with a deep passion for user experience. 
 ## Tech Stack
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,java" height="30" /> C#, R, SQL
+<img src="https://skillicons.dev/icons?i=html,css,js,java,csharp,r,sql" height="30" />  
 
 ### Frontend Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,bootstrap" height="30" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap" height="30" />  
 
 ### Backend & Server-Side
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="30" /> ASP.NET Core
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="30" />  
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,firebase" height="30" /> MSSQL
+<img src="https://skillicons.dev/icons?i=mysql,mssql,firebase" height="30" />  
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" height="30" /> Android Studio, Packet Tracer
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,visualstudio,packettracer,figma" height="30" />  
 
 ### Networking, Security & SysAdmin
-Wireshark, Cisco (CCNA), Nmap
+<img src="https://skillicons.dev/icons?i=wireshark,cisco,nmap" height="30" />  
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" height="30" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" height="30" />  
 
 ### Mobile Development
-<img src="https://skillicons.dev/icons?i=react,java,android" height="30" /> React Native
+<img src="https://skillicons.dev/icons?i=react,java,android" height="30" />  
 
 ### UI & UX Design
-<img src="https://skillicons.dev/icons?i=figma" height="30" /> Canva, Balsamiq
+<img src="https://skillicons.dev/icons?i=figma,canva,balsamiq" height="30" />  
 
 ---
