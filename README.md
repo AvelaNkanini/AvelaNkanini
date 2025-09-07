@@ -21,37 +21,32 @@ My name is Avela, a software developer with a deep passion for user experience. 
 
 ## Tech Stack
 
-## Tech Stack
-
-<!-- Main icons row -->
-<img src="https://skillicons.dev/icons?i=html,css,js,java,csharp,r,react,bootstrap,nodejs,git,github,figma,android" />
-
 ### Programming Languages
-- HTML, CSS, JavaScript, Java, C#, R, SQL
+<img src="https://skillicons.dev/icons?i=html,css,js,java,csharp,r,sql" height="30" />  
 
 ### Frontend Frameworks & Libraries
-- React, Bootstrap
+<img src="https://skillicons.dev/icons?i=react,bootstrap" height="30" />  
 
 ### Backend & Server-Side
-- Node.js, ASP.NET / ASP.NET Core
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="30" />  
 
 ### Databases
-- MySQL, Microsoft SQL Server, Firebase
+<img src="https://skillicons.dev/icons?i=mysql,mssql,firebase" height="30" />  
 
 ### Tools & Platforms
-- Git, GitHub, Visual Studio Code, Android Studio, Visual Studio, Packet Tracer, Figma
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,visualstudio,packettracer,figma" height="30" />  
 
 ### Networking, Security & SysAdmin
-- Wireshark, Cisco (CCNA / Networking), Nmap
+<img src="https://skillicons.dev/icons?i=wireshark,cisco,nmap" height="30" />  
 
 ### Cloud & DevOps
-- Docker, Kubernetes, GitHub Actions
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" height="30" />  
 
 ### Mobile Development
-- React Native, Java (Android)
+<img src="https://skillicons.dev/icons?i=react,java,android" height="30" />  
 
 ### UI & UX Design
-- Figma, Canva, Balsamiq
+<img src="https://skillicons.dev/icons?i=figma,canva,balsamiq" height="30" />  
 
 
 ---
