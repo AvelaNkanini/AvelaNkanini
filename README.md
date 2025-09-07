@@ -1,6 +1,6 @@
 # Avela Nkanini
 
-<img width="699" height="924" alt="ascii-art" src="https://github.com/user-attachments/assets/84f2f727-e60b-41fd-953e-f2e2d3fb455f" />
+<img width="399" height="624" alt="ascii-art" src="https://github.com/user-attachments/assets/84f2f727-e60b-41fd-953e-f2e2d3fb455f" />
 
 **Bachelor of Information Technology**  
 Student at **Nelson Mandela University**  
