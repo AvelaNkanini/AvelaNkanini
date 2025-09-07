@@ -28,8 +28,7 @@ My name is Avela, a software developer with a deep passion for user experience. 
 <img src="https://skillicons.dev/icons?i=react,bootstrap" height="30" />  
 
 ### Backend & Server-Side
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="30" />  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMR-sKtDBbv2LKIelaerZdgeaVW2P9Dlq2NA&s
-
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="30" /> 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mssql,firebase" height="30" />  
 
