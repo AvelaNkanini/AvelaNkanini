@@ -1,6 +1,6 @@
 # Avela Nkanini
 
-
+<img width="699" height="924" alt="ascii-art" src="https://github.com/user-attachments/assets/84f2f727-e60b-41fd-953e-f2e2d3fb455f" />
 
 **Bachelor of Information Technology**  
 Student at **Nelson Mandela University**  
@@ -29,8 +29,3 @@ Currently building and designing Websites & Mobile Applications
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,git,github,figma" />
 
 ---
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avela-nkanini)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avelankanini@example.com)
