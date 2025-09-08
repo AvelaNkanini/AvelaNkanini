@@ -7,7 +7,7 @@ Currently building and designing Websites & Mobile Applications
 
 ---
 ## About Me
-My name is Avela, a software developer with a deep passion for user experience. I love transforming ideas into reality—whether through words, Figma designs, or fully functional applications. I enjoy both design and research, and I value security in every project I work on. I am always eager to learn and improve, with a strong focus on design patterns, reusability, and clean, structured code.
+My name is **Avela**, a software developer with a deep passion for user experience. I love transforming ideas into reality—whether through words, Figma designs, or fully functional applications. I enjoy both design and research, and I value security in every project I work on. I am always eager to learn and improve, with a strong focus on design patterns, reusability, and clean, structured code.
 
 ---
 
