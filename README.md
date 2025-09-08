@@ -22,29 +22,21 @@ My name is Avela, a software developer with a deep passion for user experience. 
 ## Tech Stack
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,java,csharp,r,sql" height="30" />  
+<img src="https://skillicons.dev/icons?i=html,css,js,java,r,sql" height="30" />  
 
 ### Frontend Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,bootstrap" height="30" />  
 
 ### Backend & Server-Side
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet" height="30" /> 
+
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mssql,firebase" height="30" />  
+<img src="https://skillicons.dev/icons?i=mysql,firebase" height="30" />  
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,visualstudio,packettracer,figma" height="30" />  
-
-### Networking, Security & SysAdmin
-<img src="https://skillicons.dev/icons?i=wireshark,cisco,nmap" height="30" />  
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" height="30" />  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,visualstudio,figma" height="30" />  
 
 ### Mobile Development
 <img src="https://skillicons.dev/icons?i=react,java,android" height="30" />  
-
-### UI & UX Design
-<img src="https://skillicons.dev/icons?i=figma,canva,balsamiq" height="30" />  
 
 ---
