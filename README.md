@@ -13,7 +13,7 @@ My name is **Avela**, a software developer with a deep passion for user experien
 
 ## GitHub Stats
 
-![GitHub Stats](github-stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvelaNkanini&show_icons=true&theme=react&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelaNkanini&theme=react&hide_border=false&count_private=false&layout=compact)
 
